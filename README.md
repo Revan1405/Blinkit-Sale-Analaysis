@@ -1,4 +1,4 @@
-Blinkit Sales Dashboard Analysis (Power BI) 📌 Project Overview
+Blinkit Sale Analysis Dashboard (Power BI) 📌 Project Overview
 
 This repository contains the sales dashboard and key performance metrics for Blinkit, India’s last-minute delivery app. The report summarizes total sales, product performance, outlet types, and customer ratings.
 
