@@ -8,10 +8,10 @@ The dashboard provides a comprehensive view of sales performance, enabling data-
 
 📌 Key Highlights
 
-Total Sales: $1.20M
-Average Sales: $140.99
-Average Rating: 3.92
-Total Items: 8,523
+• Total Sales: $1.20M
+• Average Sales: $140.99
+• Average Rating: 3.92
+• Total Items: 8,523
 
 📈 Insights
 
