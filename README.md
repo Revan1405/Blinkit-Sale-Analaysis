@@ -11,12 +11,14 @@ Total Sales: $1.20M
 Average Sales: $140.99
 Average Rating: 3.92
 Total Items: 8,523
+
 📈 Insights
 Top Categories: Fruits & Vegetables and Snack Foods are the leading contributors to revenue.
 Outlet Performance: Medium-sized outlets generate the highest sales, followed by small outlets.
 Sales Trend: Peak sales observed around 2018, with stable performance in recent years.
 Outlet Types: Supermarket Type1 dominates in both sales and number of items.
 Customer Preference: Low-fat products show strong sales, especially in Tier 3 locations.
+
 🧩 Features
 Interactive filters for:
 Outlet Size
