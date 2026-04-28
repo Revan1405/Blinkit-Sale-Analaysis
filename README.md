@@ -1,16 +1,29 @@
-Blinkit Sale Analysis Dashboard (Power BI) 📌 Project Overview
+📊 Blinkit Sales Dashboard 
 
-This repository contains the sales dashboard and key performance metrics for Blinkit, India’s last-minute delivery app. The report summarizes total sales, product performance, outlet types, and customer ratings.
+This project presents an interactive sales analytics dashboard for Blinkit, designed to uncover key business insights across products, outlets, and customer metrics.
 
-## Contents
-- **Dashboard Image:** Visual snapshot of top-selling products, sales trends by outlet year, sales by outlet size and fat content, and outlet types.
-- **Data Summary:** Includes total sales of $1.20M, average rating of 3.92, and over 8,500 items tracked.
-- **Sales Breakdown:** 
-  - Top 5 selling product categories with sales figures.
-  - Total sales trends from 2011 to 2022.
-  - Sales and ratings by outlet type and fat content tiers.
+🚀 Overview
 
-## How to Use
-- Review the dashboard image for visual insights.
-- Explore data files (if any) for deeper analysis or to build your own visualizations.
-- Use this repository as a reference for sales performance or app analytics.
+The dashboard provides a comprehensive view of sales performance, enabling data-driven decision-making through intuitive visualizations and filters.
+
+📌 Key Highlights
+Total Sales: $1.20M
+Average Sales: $140.99
+Average Rating: 3.92
+Total Items: 8,523
+📈 Insights
+Top Categories: Fruits & Vegetables and Snack Foods are the leading contributors to revenue.
+Outlet Performance: Medium-sized outlets generate the highest sales, followed by small outlets.
+Sales Trend: Peak sales observed around 2018, with stable performance in recent years.
+Outlet Types: Supermarket Type1 dominates in both sales and number of items.
+Customer Preference: Low-fat products show strong sales, especially in Tier 3 locations.
+🧩 Features
+Interactive filters for:
+Outlet Size
+Item Fat Content
+Outlet Location Type
+Visual breakdowns of:
+Sales by category
+Outlet establishment trends
+Outlet size distribution
+Product and location-based performance
