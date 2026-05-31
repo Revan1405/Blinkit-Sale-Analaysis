@@ -21,7 +21,6 @@ The dashboard provides a comprehensive view of sales performance, enabling data-
 
 ## 🧩 Features
 - **Interactive filters for:**
-  - Outlet Size  
   - Item Fat Content  
   - Outlet Location Type  
 
